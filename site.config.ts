@@ -9,16 +9,16 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Next.js Notion Starter Kit',
+  name: 'SuperGame',
   domain: 'https://www.notion.so/Blog-b1c24c68251c4062a46c89672620497b',
-  author: 'Travis Fischer',
+  author: 'Pluto Dugue',
 
   // open graph metadata (optional)
-  description: 'Example Next.js Notion Starter Kit Site',
+  description: 'A free resouces web',
 
   // social usernames (optional)
-  twitter: 'transitive_bs',
-  github: 'transitive-bullshit',
+  twitter: 'PlutoDugue',
+  github: 'Pluto Dugue',
   linkedin: 'fisch2',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
   // newsletter: '#', // optional newsletter URL
